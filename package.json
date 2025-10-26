@@ -1,0 +1,17 @@
+{
+  "name": "random-motivator",
+  "displayName": "Random Motivator",
+  "description": "Показывает мотивационные цитаты при сохранении файла.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension.js",
+  "contributes": {}
+}
